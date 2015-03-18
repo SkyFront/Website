@@ -120,8 +120,14 @@ a,
 	     -o-border-radius: 150px;
 	        border-radius: 150px;
     
+	/*
 	margin-left: 20%;
 	margin-right: 20%;
+	*/
+}
+
+.center{
+	text-align: center;
 }
 
 /* ---------------------------------------------- /*
